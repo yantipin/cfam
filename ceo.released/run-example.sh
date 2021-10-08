@@ -1,0 +1,1 @@
+./cea cmd=vars msa=example/msa1.txt start=0.5 end=0.99 steps=100 msahtmlout=example/msa1.clu.html
